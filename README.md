@@ -15,5 +15,5 @@ I'm a software engineer passionate about building clean, and impactful applicati
 ```ts
 Languages: Python, TypeScript, C/C++, SQL, JavaScript, YAML
 Frontend: React, React Native (Expo), HTML/CSS
-Backend: Flask, Node.js, PostgreSQL, SQLite
+Backend: Flask, Node.js, Express.js, PostgreSQL, SQLite
 Tools: Git, Docker, Ansible, Redis, Flask, Celery, GitLab CI/CD
