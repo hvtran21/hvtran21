@@ -8,7 +8,7 @@ I'm a software engineer passionate about building clean, and impactful applicati
 - 📱 Currently building a distraction-free tech news mobile app
 - 🚀 Previously interned at General Dynamics, delivering production-ready CI/CD pipelines and full stack features
 - 🎓 Computer Engineering @ UMass Amherst, graduated in 2025
-- 📍 Open to new grad SWE opportunities — interested in full stack positions and mobile development
+- 📍 Open to new grad SWE opportunities — interested in full stack and mobile development.
 
 ## 🛠️ Technologies I Use
 
