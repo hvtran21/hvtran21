@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Huy Tran
 
-I'm a software engineer passionate about building clean, fast, and impactful apps — from low-level systems to full-stack web and mobile experiences.
+I'm a software engineer passionate about building clean, and impactful applications. I enjoy making things that making a positive impact!
 
 ## 🧠 What I'm About
 
@@ -13,7 +13,7 @@ I'm a software engineer passionate about building clean, fast, and impactful app
 ## 🛠️ Technologies I Use
 
 ```ts
-Languages: TypeScript, Python, C/C++, SQL, JavaScript  
-Frontend: React, React Native (Expo),
-Backend: Flask, Node.js, PostgreSQL, SQLite  
-Tools: Git, Docker, Ansible, Redis, Flask, GitLab CI/CD
+Languages: Python, TypeScript, C/C++, SQL, JavaScript, YAML
+Frontend: React, React Native (Expo), HTML/CSS
+Backend: Flask, Node.js, PostgreSQL, SQLite
+Tools: Git, Docker, Ansible, Redis, Flask, Celery, GitLab CI/CD
