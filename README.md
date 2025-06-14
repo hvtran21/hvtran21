@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Huy Tran
 
-I'm a software engineer passionate about building clean, and impactful applications. I enjoy making things that making a positive impact!
+I'm a software engineer passionate about building clean, and impactful applications. I enjoy making things that have a positive impact!
 
 ## 🧠 What I'm About
 
