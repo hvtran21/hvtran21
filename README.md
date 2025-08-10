@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Huy Tran
 
-I'm a software engineer passionate about building clean, and impactful applications. With 1+ years of experience in full-stack development across various frameworks, I'm still deciding what variable should be named.
+I'm a software engineer passionate about building clean, and impactful applications. 
+With 1+ years of experience in full-stack development across various frameworks, I'm still deciding on meaningful variable names..
 
 ## 🧠 What I'm About
 
