@@ -5,7 +5,7 @@ With 1+ years of experience in full-stack development across various frameworks,
 
 ## 🧠 What I'm About
 
-- 📱 I like builing mobile apps
+- 📱 I like building mobile apps
 - 🚀 Previously SWE Intern @ GDMS, current Junior Software Dev @ TTA (The Training Associates)
 - 🎓 Computer Engineering @ UMass Amherst, graduated in 2025
 
