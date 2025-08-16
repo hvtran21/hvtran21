@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Huy Tran
 
 I'm a software engineer passionate about building clean, and impactful applications. 
-With 1+ years of experience in full-stack development across various frameworks, I'm still deciding on meaningful variable names..
+With 1+ years of experience in full-stack development across various frameworks, I'm still deciding on meaningful variable names...
 
-## 🧠 What I'm About
-
-- 📱 I like building mobile apps
 - 🚀 Junior Software Developer @ TTA (The Training Associates). Previous SWE Intern @ GDMS
 - 🎓 Computer Engineering @ UMass Amherst, Class of 2025
 
