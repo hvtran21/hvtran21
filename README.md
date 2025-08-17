@@ -18,7 +18,7 @@ Python • TypeScript • JavaScript • C# • C++ • C • SQL • YAML
 React • React Native (Expo) • HTML • CSS
 
 **Backend**  
-Flask • Node.js • Express.js • .NET • ASP.NET 
+Flask • Node.js • Express.js • .NET 
 
 **Databases**  
 PostgreSQL • Microsoft SQL Server • MySQL • SQLite  
