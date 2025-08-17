@@ -12,13 +12,13 @@ I have 1+ years of experience across full-stack and mobile development, with a s
 ## 🛠️ Technologies
 
 **Languages**  
-Python • TypeScript • JavaScript • C • C++ • C# • SQL • YAML  
+Python • TypeScript • JavaScript • C# • C++ • C • SQL • YAML  
 
 **Frontend**  
-React • React Native (Expo) • HTML • CSS  
+React • React Native (Expo) • HTML • CSS
 
 **Backend**  
-Flask • Node.js • Express.js • .NET (Entity Framework)  
+Flask • Node.js • Express.js • .NET • ASP.NET 
 
 **Databases**  
 PostgreSQL • Microsoft SQL Server • MySQL • SQLite  
