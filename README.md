@@ -4,7 +4,6 @@ I'm a software engineer passionate about building clean and impactful applicatio
 I have 1+ years of experience across full-stack development operations, with a strong focus on delivering practical solutions.
 
 - 🚀 Junior Software Developer @ TTA (The Training Associates)  
-- 💻 Former SWE Intern @ GDMS (General Dynamics Mission Systems)
 - 🎓 B.S. Computer Engineering @ UMass Amherst (Class of 2025)
 
 ---
