@@ -1,8 +1,5 @@
 # Hi, I'm Huy
 
-I'm a software engineer passionate about building clean and impactful applications.  
-I have 1+ years of experience across full-stack development operations, with a strong focus on delivering practical solutions.
-
 - Junior Software Developer @ TTA (The Training Associates)  
 - B.S. Computer Engineering @ UMass Amherst (Class of 2025)
 
