@@ -11,13 +11,13 @@
 Python • TypeScript • JavaScript • C# • C++ • C • SQL • YAML  
 
 **Frontend**  
-React • React Native (Expo) • HTML • CSS
+React/React Native • HTML • CSS • Expo GO
 
 **Backend**  
 Flask • Node.js • Express.js • .NET 
 
 **Databases**  
-PostgreSQL • Microsoft SQL Server • MySQL • SQLite  
+PostgreSQL • SQL Server • SQLite
 
 **Tools & DevOps**  
 Git • GitHub Actions • GitLab CI/CD • Docker • Ansible • Redis • Celery
